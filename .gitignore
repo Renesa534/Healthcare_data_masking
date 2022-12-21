@@ -1,1 +1,13 @@
-node_modules
+*.log
+*.md.html
+*.pyc
+*.prefs
+*.project
+*.pydevproject
+# data/word_vectors/
+# data/input/unannotated_texts/deploy/*
+# data/mask_input/*
+venv
+
+# OS X file
+.DS_Store
