@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  padding: 24px;
+}
+
+.textarea {
+  min-width: 360px;
+  min-height: 300px;
+  max-width: calc(50vw - 24px);
+  border-radius: 5px;
+  border-color: green;
+  width: 93%;
+}
+
+.app-title {
+  color: rgb(60, 8, 10);
+  text-decoration: underline;
+  font-weight: 700 !important;
+}
+
+.file-drop-section {
+  border: 3px dashed grey;
+  min-width: 400px;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  padding: 0px 16px;
+}
